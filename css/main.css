@@ -1,0 +1,73 @@
+.container{
+    padding: 0;
+    margin-bottom: 0;
+}
+.header .container{
+    height: 80px;
+}
+.header .container img{
+    padding-top: 13px;
+}
+.body {
+    font-family: Georgia;
+    font-size: 13px;
+    color: #222222;
+}
+
+.navWrap{
+    background-color: #3355aa;
+    height: 40px;
+}
+.navWrap .container{
+    height: 40px;
+}
+.nav.navbar-nav li a{
+    font-style: italic;
+    color: aliceblue;
+    padding-top:0;
+    padding-bottom: 0;
+    line-height: 40px;
+}
+.nav li a:hover{
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+
+.navbar-form.navbar-right{
+    margin: 0;
+    line-height: 40px;
+}
+.form-control{
+    color:#3355aa;
+    font-style: italic;
+    margin: auto 0;
+}
+.btn.btn-default{
+    background-color: #3355aa;
+    padding: 8px;
+}
+
+
+.notifyWrap{
+    padding-top: 35px;
+    padding-bottom: 45;
+}
+
+.photo{
+    box-shadow: 3px; 
+}
+
+.photo p{
+    text-align: center;
+    font-size:14px;
+}
+.col-sm-3 h4{
+    color:#3355aa;
+    font-style: bold;
+    border-bottom: yellow;
+}
+.col-sm-3 p{ 
+    font-size: 11px;
+}
